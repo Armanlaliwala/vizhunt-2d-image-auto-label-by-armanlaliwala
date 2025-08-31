@@ -1,6 +1,6 @@
 streamlit
-ultralytics>=8.0.100
-opencv-python-headless==4.8.1.78
+ultralytics
+opencv-python-headless
 pillow
 matplotlib
 pandas
